@@ -56,3 +56,6 @@ The following definitions are crucial for risk management:
 - Security needs to be directed and supported by top management, referred to as the top-down approach. 
 - Most companies follow a bottom-up approach, where the IT department takes security seriously and attempts to develop a security program. 
   - This approach usually will not provide those individuals with the necessary funds, support, resources, or attention.
+
+---
+Source: [Security Risk Management](https://resources.infosecinstitute.com/certification/security-risk-management/)
