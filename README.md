@@ -7,3 +7,4 @@ A repostory for all my reading notes pertaining to class 401d5.
 - [Class 03 Reading Notes](Class03.md)
 - [Class 04 Reading Notes](Class04.md)
 - [Class 06 Reading Notes](Class06.md)
+- [Class 07 Reading Notes](Class07.md)
