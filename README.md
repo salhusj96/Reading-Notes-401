@@ -1,4 +1,4 @@
-# Reading-Notes-401
+# **Reading Notes 401**
 A repostory for all my reading notes pertaining to class 401d5.
 
 ## **Table of Contents**
@@ -12,3 +12,4 @@ A repostory for all my reading notes pertaining to class 401d5.
 - [Class 09 Reading Notes](Class09.md)
 - [Class 11 Reading Notes](Class11.md)
 - [Class 12 Reading Notes](Class12.md)
+- [Class 13 Reading Notes](Class13.md)
