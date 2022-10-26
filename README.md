@@ -16,3 +16,4 @@ A repostory for all my reading notes pertaining to class 401d5.
 - [Class 14 Reading Notes](Class14.md)
 - [Class 16 Reading Notes](Class16.md)
 - [Class 17 Reading Notes](Class17.md)
+- [Class 18 Reading Notes](Class18.md)
