@@ -20,3 +20,4 @@ A repostory for all my reading notes pertaining to class 401d5.
 - [Class 19 Reading Notes](Class19.md)
 - [Class 26 Reading Notes](Class26.md)
 - [Class 27 Reading Notes](Class27.md)
+- [Class 28 Reading Notes](Class28.md)
