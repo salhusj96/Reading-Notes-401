@@ -22,3 +22,4 @@ A repostory for all my reading notes pertaining to class 401d5.
 - [Class 27 Reading Notes](Class27.md)
 - [Class 28 Reading Notes](Class28.md)
 - [Class 29 Reading Notes](Class29.md)
+- [Class 31 Reading Notes](Class31.md)
