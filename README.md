@@ -26,3 +26,4 @@ A repostory for all my reading notes pertaining to class 401d5.
 - [Class 32 Reading Notes](Class32.md)
 - [Class 33 Reading Notes](Class33.md)
 - [Class 34 Reading Notes](Class34.md)
+- [Class 36 Reading Notes](Class36.md)
