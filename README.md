@@ -30,3 +30,4 @@ A repostory for all my reading notes pertaining to class 401d5.
 - [Class 37 Reading Notes](Class37.md)
 - [Class 38 Reading Notes](Class38.md)
 - [Class 39 Reading Notes](Class39.md)
+- [Class 41 Reading Notes](Class41.md)
